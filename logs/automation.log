@@ -1,0 +1,40 @@
+16:25:09.515 [main] INFO testCases.TC001_AccountRegistrationTest - Enter all details
+16:25:11.210 [main] INFO testCases.TC001_AccountRegistrationTest - Set password
+16:25:17.061 [main] INFO testCases.TC001_AccountRegistrationTest - Validation message
+16:25:17.143 [main] INFO testCases.TC001_AccountRegistrationTest - *** Finished TC001 ***
+16:25:26.675 [main] INFO testCases.TC002_LoginTest - *** Started TC002 ***
+16:29:29.878 [main]DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Admin\eclipse-workspace\JAVAProgramsAT\NinJAV10\masterTestng.xml"
+16:29:37.267 [main] INFO testCases.TC001_AccountRegistrationTest - *** Started TC001 ***
+16:29:37.592 [main] INFO testCases.TC001_AccountRegistrationTest - Clicked on My Account link
+16:29:38.297 [main] INFO testCases.TC001_AccountRegistrationTest - Clicked on My Register link
+16:29:38.297 [main] INFO testCases.TC001_AccountRegistrationTest - Enter all details
+16:29:39.419 [main] INFO testCases.TC001_AccountRegistrationTest - Set password
+16:29:45.660 [main] INFO testCases.TC001_AccountRegistrationTest - Validation message
+16:29:45.820 [main] INFO testCases.TC001_AccountRegistrationTest - *** Finished TC001 ***
+16:29:51.579 [main] INFO testCases.TC002_LoginTest - *** Started TC002 ***
+16:40:39.468 [main]DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Admin\eclipse-workspace\JAVAProgramsAT\NinJAV10\masterTestng.xml"
+17:35:52.916 [main]DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Admin\eclipse-workspace\JAVAProgramsAT\NinJAV10\masterTestng.xml"
+17:36:50.054 [main]DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Admin\eclipse-workspace\JAVAProgramsAT\NinJAV10\masterTestng.xml"
+17:38:48.491 [main]DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Admin\eclipse-workspace\JAVAProgramsAT\NinJAV10\masterTestng.xml"
+17:42:59.526 [main]DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Admin\eclipse-workspace\JAVAProgramsAT\NinJAV10\masterTestng.xml"
+17:46:07.744 [main]DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Admin\eclipse-workspace\JAVAProgramsAT\NinJAV10\masterTestng.xml"
+17:52:31.427 [main]DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Admin\eclipse-workspace\JAVAProgramsAT\NinJAV10\masterTestng.xml"
+17:54:23.234 [main]DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Admin\eclipse-workspace\JAVAProgramsAT\NinJAV10\masterTestng.xml"
+18:03:27.958 [main]DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Admin\eclipse-workspace\JAVAProgramsAT\NinJAV10\masterTestng.xml"
+18:03:59.971 [main] INFO testCases.TC001_AccountRegistrationTest - *** Started TC001 ***
+18:04:00.112 [main] INFO testCases.TC001_AccountRegistrationTest - Clicked on My Account link
+18:04:00.747 [main] INFO testCases.TC001_AccountRegistrationTest - Clicked on My Register link
+18:04:00.747 [main] INFO testCases.TC001_AccountRegistrationTest - Enter all details
+18:04:01.159 [main] INFO testCases.TC001_AccountRegistrationTest - Set password
+18:04:06.791 [main] INFO testCases.TC001_AccountRegistrationTest - Validation message
+18:04:06.883 [main] INFO testCases.TC001_AccountRegistrationTest - *** Finished TC001 ***
+18:04:09.046 [main] INFO testCases.TC002_LoginTest - *** Started TC002 ***
+18:15:47.019 [main]DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Admin\eclipse-workspace\JAVAProgramsAT\NinJAV10\masterTestng.xml"
+18:15:49.814 [main] INFO testCases.TC001_AccountRegistrationTest - *** Started TC001 ***
+18:15:49.945 [main] INFO testCases.TC001_AccountRegistrationTest - Clicked on My Account link
+18:15:50.305 [main] INFO testCases.TC001_AccountRegistrationTest - Clicked on My Register link
+18:15:50.305 [main] INFO testCases.TC001_AccountRegistrationTest - Enter all details
+18:15:50.714 [main] INFO testCases.TC001_AccountRegistrationTest - Set password
+18:15:55.138 [main] INFO testCases.TC001_AccountRegistrationTest - Validation message
+18:15:55.199 [main] INFO testCases.TC001_AccountRegistrationTest - *** Finished TC001 ***
+18:15:57.601 [main] INFO testCases.TC002_LoginTest - *** Started TC002 ***
